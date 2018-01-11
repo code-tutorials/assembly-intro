@@ -6,3 +6,4 @@ all:
 	$(MAKE) -C ex5 all
 	$(MAKE) -C ex6 all
 	$(MAKE) -C ex7 all
+	$(MAKE) -C ex8 all
