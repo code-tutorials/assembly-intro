@@ -6,5 +6,6 @@
 !.gitignore
 !*.asm
 !*.c
+!*.h
 !*.md
 !Makefile

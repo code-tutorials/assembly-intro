@@ -9,4 +9,5 @@ all:
 	$(MAKE) -C ex8 all
 	$(MAKE) -C ex9 all
 	$(MAKE) -C ex10 all
+	$(MAKE) -C ex11 all
 
